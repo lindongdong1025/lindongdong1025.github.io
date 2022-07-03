@@ -2,14 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lindongdong1025.github.io</id>
     <title>Gridea</title>
-    <updated>2022-07-03T12:25:45.797Z</updated>
+    <updated>2022-07-03T12:33:30.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lindongdong1025.github.io"/>
     <link rel="self" href="https://lindongdong1025.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>林东星</subtitle>
     <logo>https://lindongdong1025.github.io/images/avatar.png</logo>
     <icon>https://lindongdong1025.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[java出书入门]]></title>
+        <id>https://lindongdong1025.github.io/post/java-chu-shu-ru-men/</id>
+        <link href="https://lindongdong1025.github.io/post/java-chu-shu-ru-men/">
+        </link>
+        <updated>2022-07-03T12:28:05.000Z</updated>
+        <content type="html"><![CDATA[<p>大时代撒</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello 林东星]]></title>
         <id>https://lindongdong1025.github.io/post/hello-gridea/</id>
